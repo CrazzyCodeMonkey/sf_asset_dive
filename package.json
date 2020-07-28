@@ -1,0 +1,16 @@
+{
+    "name": "sf-asset-dive",
+    "version": "0.0.1",
+    "description": "Build and validate parts of a Salesforce asset dependancy tree",
+    "main": "index.js",
+    "scripts": {
+        "check": "node check.js"
+    },
+    "author": "Trace Sinclair",
+    "contributors": [],
+    "license": "MIT",
+    "dependencies": {
+        "log-symbols": "^4.0.0",
+        "xml2js": "^0.4.23"
+    }
+}
